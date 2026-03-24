@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there, I'm Abhishek Gorai 👋
+🎓 About Me :
 
-<!--
-**abhishekgorai911/abhishekgorai911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏛️ Currently pursuing B.Tech in CSE at VIT Bhopal University.
+🤖 Passionate about AI & DS Development and building intelligent solutions.
+👨‍💻 My primary language is Python programming language, but I'm also sharpening my skills in Java and CSS for full-stack versatility.
+🛠️ Tech Stack :
 
-Here are some ideas to get you started:
+Languages: Python (Primary), Java, C++
+Web: CSS, HTML
+Tools: Git, GitHub, VS Code, Canva (Design)
+Platforms: VITyarthi, VTOP
+🎯 Current Goals :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Master advanced Python libraries for AI (NumPy, Pandas, Scikit-learn).
+Build a complete AI-driven project from scratch.
+Improve UI/UX design skills using CSS.
+📫 Connect with me :
+
+LinkedIn:https://www.linkedin.com/in/abhishek-gorai-66a113366/
+University:VIT Bhopal (Batch 2025)
