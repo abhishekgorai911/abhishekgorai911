@@ -17,6 +17,7 @@ Platforms: VITyarthi, VTOP
 Master advanced Python libraries for AI (NumPy, Pandas, Scikit-learn).
 Build a complete AI-driven project from scratch.
 Improve UI/UX design skills using CSS.
+
 📫 Connect with me :
 
 LinkedIn:https://www.linkedin.com/in/abhishek-gorai-66a113366/
